@@ -1,8 +1,3 @@
-
-"""
-Starter code from Wei Song/webcms
-otherwise written by z5358863 Christopher Fam
-"""
 from socket import *
 from threading import Thread, Lock
 import os, sys, time
