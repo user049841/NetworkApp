@@ -1,7 +1,3 @@
-"""
-Starter code comes from Wei Song/webcms
-otherwise written by z5358863 Christopher Fam
-"""
 from socket import *
 import sys
 import threading
